@@ -1,0 +1,20 @@
+{
+  "name": "ai-jd-portfolio-workflow",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A public-safe workflow template for JD-tailored resume and portfolio generation with AI design-reference extraction.",
+  "license": "MIT",
+  "scripts": {
+    "design:brandmd": "echo \"Run: npx brandmd <url> -o references/<site>-DESIGN.md\"",
+    "check": "echo \"No automated checks yet\""
+  },
+  "keywords": [
+    "resume",
+    "portfolio",
+    "job-description",
+    "design-system",
+    "brandmd",
+    "ai-workflow"
+  ]
+}
+
