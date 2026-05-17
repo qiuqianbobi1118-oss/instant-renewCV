@@ -1,4 +1,8 @@
-# AI JD Portfolio Workflow
+# instant-renewCV
+
+Renew your CV once a little.
+
+## AI JD Portfolio Workflow
 
 A reusable workflow for turning a job description, an experience knowledge base, and external design references into tailored resume/portfolio pages.
 
@@ -62,4 +66,3 @@ This workflow references those tools instead of vendoring their source code.
 ## Privacy Rule
 
 Keep personal information out of this repo. Treat this as a public workflow template, not as a resume archive.
-
